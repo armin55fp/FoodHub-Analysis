@@ -25,5 +25,7 @@ FoodHub is an online food aggregator. This analysis answers key questions regard
 ## Project Files
 - **Project_FoodHub.ipynb**: Jupyter Notebook containing the entire analysis.
 - **README.md**: Overview of the project.
+-  **foodhub_order.csv**: the dataset used in the project.
+
 
 
